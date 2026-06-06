@@ -498,7 +498,7 @@ function Contact() {
             </p>
           </div>
           <div className="contact-links">
-            <a href="mailto:ssan0779@uni.sydney.edu.au" className="contact-link">
+            <a href="mailto:shashwatrsusyd@gmail.com" className="contact-link">
               <span className="contact-link-icon">✉️</span>
               <div className="contact-link-text">
                 <span>Email</span>
@@ -518,14 +518,6 @@ function Contact() {
                 <span>GitHub</span>
                 <span>github.com/Shashwat-r-s</span>
               </div>
-            </a>
-            <a href="tel:+61436939164" className="contact-link">
-              <span className="contact-link-icon">📱</span>
-              <div className="contact-link-text">
-                <span>Phone</span>
-                <span>+61 436 939 164</span>
-              </div>
-            </a>
           </div>
         </div>
       </div>
