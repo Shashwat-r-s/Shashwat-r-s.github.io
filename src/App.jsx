@@ -518,6 +518,7 @@ function Contact() {
                 <span>GitHub</span>
                 <span>github.com/Shashwat-r-s</span>
               </div>
+            </a>
           </div>
         </div>
       </div>
